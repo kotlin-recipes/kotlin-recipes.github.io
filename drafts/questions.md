@@ -48,3 +48,5 @@
 ## should I (and how) use packages?
 
 ## should you use separate kotlin and java folders in IDE?
+
+## When should I use `apply` vs `let` vs `with` vs `run` vs `also`?
