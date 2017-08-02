@@ -46,3 +46,5 @@
 ## how should I split classes in files
 
 ## should I (and how) use packages?
+
+## should you use separate kotlin and java folders in IDE?
