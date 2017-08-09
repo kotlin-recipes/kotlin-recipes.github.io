@@ -6,6 +6,7 @@
 ## How much should you optimize for Java byte code?
 
 ## Where do you put constants?
+https://cdn.ampproject.org/c/s/blog.egorand.me/where-do-i-put-my-constants-in-kotlin/amp/
 
 ## Should I use enums?
 
